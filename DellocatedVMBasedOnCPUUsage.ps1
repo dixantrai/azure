@@ -43,4 +43,4 @@ Function DellocatedVMBasedOnCPUUsage($resourceGroup, $vmName, $lookBackMins)
 }
 
 ## Usage 
-# DellocatedVMBasedOnCPUUsage "nameResourceGroup" "nameVM1" 3
+DellocatedVMBasedOnCPUUsage "nameResourceGroup" "nameVM1" 3
